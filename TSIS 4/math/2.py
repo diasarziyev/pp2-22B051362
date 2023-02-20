@@ -1,0 +1,5 @@
+height = int(input())
+firstbase = int(input())
+secondbase = int(input())
+area = float(((firstbase+secondbase)/2)*height)
+print(area)
